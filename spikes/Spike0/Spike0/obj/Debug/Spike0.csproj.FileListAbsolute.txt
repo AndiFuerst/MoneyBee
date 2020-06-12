@@ -1,0 +1,10 @@
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\obj\Debug\Spike0.csprojAssemblyReference.cache
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\obj\Debug\Spike0.MoneyBeeForm.resources
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\obj\Debug\Spike0.Properties.Resources.resources
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\obj\Debug\Spike0.csproj.GenerateResource.cache
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\obj\Debug\Spike0.csproj.CoreCompileInputs.cache
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\bin\Debug\Spike0.exe.config
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\bin\Debug\Spike0.exe
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\bin\Debug\Spike0.pdb
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\obj\Debug\Spike0.exe
+C:\Users\Nathan K\SoftEngRepos\se3330-s20-2-snal\Spike0\Spike0\obj\Debug\Spike0.pdb
